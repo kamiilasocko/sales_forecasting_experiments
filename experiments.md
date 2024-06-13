@@ -25,7 +25,7 @@ sites](data/sites.png)
 
 <div class="cell markdown">
 
-### Local vs. gloval models
+### Local vs. global models
 
 </div>
 
