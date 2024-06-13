@@ -1,11 +1,3 @@
----
-jupyter:
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 2
----
-
 <div class="cell markdown">
 
 # Forecasting and optimizing fuel sales using machine learning
